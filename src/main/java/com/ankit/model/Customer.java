@@ -3,7 +3,7 @@ package com.ankit.model;
 public class Customer {
 private String firstName;
 private String lastName;
-
+private String phone;
 
 public Customer() {
 	
